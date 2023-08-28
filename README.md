@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project contains a list of automated scenarios that include checks of authorization area of ALPS dashboard project (development environment): <https://crystalski.dev.musement.com/>, that is available only under VPN.
+This project contains a list of automated scenarios that include checks of the ALPS dashboard project (development environment), which is available only under VPN.
 
 ## Programming language and framework
 
@@ -12,4 +12,4 @@ The Behaviour Driven Development tool used is [Cucumber](https://cucumber.io/).
 
 ## How to run tests
 
-Unfortenately, you can't run tests since the application is not available for everyone. But you can see the structure of the project.
+Unfortunately, you can't run tests since the application is not available for everyone. But you can see the structure of the project.
