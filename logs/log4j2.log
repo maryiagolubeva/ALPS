@@ -1,0 +1,131 @@
+2021-05-06 00:18:51,774 INFO [main] Browser started 
+2021-05-06 00:18:52,104 INFO [main] User login to application 
+2021-05-06 00:18:53,129 INFO [main] 'New contract' page opened 
+2021-05-06 00:18:53,821 INFO [main] Description entered to 'Description' field 
+2021-05-06 00:18:54,423 INFO [main] 5 selected for current month 
+2021-05-06 00:18:57,430 INFO [main] Valid from added to contract 
+2021-05-06 00:18:58,526 INFO [main] 22 selected for current month 
+2021-05-06 00:19:01,540 INFO [main] Valid to added to contract 
+2021-05-06 00:19:01,850 INFO [main] Net cost & Public price currencies selected 
+2021-05-06 00:19:06,346 INFO [main] Supplier selected 
+2021-05-06 00:19:11,611 INFO [main] Helmet ancillary selected 
+2021-05-06 00:19:11,612 INFO [main] Ancillary added to contract 
+2021-05-06 00:19:11,967 INFO [main] Ancillary info added 
+2021-05-06 00:19:13,993 INFO [main] 5 selected for current month 
+2021-05-06 00:19:17,000 INFO [main] Supplied date from added to contract 
+2021-05-06 00:19:18,889 INFO [main] 22 selected for current month 
+2021-05-06 00:19:21,890 INFO [main] Supplied date to added to contract 
+2021-05-06 00:19:22,793 INFO [main] Condition added to ancillary 
+2021-05-06 00:19:23,463 INFO [main] Public price & net cost added to ancillary 
+2021-05-06 00:19:23,647 INFO [main] Contract activated 
+2021-05-06 00:19:24,507 INFO [main] Contract changed status to 'On Sale' 
+2021-05-06 18:14:29,773 INFO [main] Browser started 
+2021-05-06 18:14:30,080 INFO [main] User login to application 
+2021-05-06 18:14:31,149 INFO [main] 'New contract' page opened 
+2021-05-06 18:14:31,845 INFO [main] Description entered to 'Description' field 
+2021-05-06 18:14:32,445 INFO [main] 5 selected for current month 
+2021-05-06 18:14:54,717 INFO [main] Browser started 
+2021-05-06 18:14:54,995 INFO [main] User login to application 
+2021-05-06 18:14:55,578 INFO [main] 'New contract' page opened 
+2021-05-06 18:14:56,771 INFO [main] Description entered to 'Description' field 
+2021-05-06 18:14:57,352 INFO [main] 5 selected for current month 
+2021-05-06 18:15:00,360 INFO [main] Valid from added to contract 
+2021-05-06 18:15:01,594 INFO [main] 22 selected for current month 
+2021-05-06 18:15:20,282 INFO [main] Browser started 
+2021-05-06 18:15:20,552 INFO [main] User login to application 
+2021-05-06 18:15:21,318 INFO [main] 'New contract' page opened 
+2021-05-06 18:15:22,504 INFO [main] Description entered to 'Description' field 
+2021-05-06 18:15:23,076 INFO [main] 5 selected for current month 
+2021-05-06 18:15:26,079 INFO [main] Valid from added to contract 
+2021-05-06 18:15:27,222 INFO [main] 22 selected for current month 
+2021-05-06 18:15:30,234 INFO [main] Valid to added to contract 
+2021-05-06 18:15:30,527 INFO [main] Net cost & Public price currencies selected 
+2021-05-06 18:15:35,008 INFO [main] Supplier selected 
+2021-05-06 18:15:40,264 INFO [main] Helmet ancillary selected 
+2021-05-06 18:15:40,264 INFO [main] Ancillary added to contract 
+2021-05-06 18:15:40,621 INFO [main] Ancillary info added 
+2021-05-06 18:15:42,626 INFO [main] 5 selected for current month 
+2021-05-06 18:15:45,637 INFO [main] Supplied date from added to contract 
+2021-05-06 18:15:47,646 INFO [main] 22 selected for current month 
+2021-05-06 18:15:50,648 INFO [main] Supplied date to added to contract 
+2021-05-06 18:15:51,815 INFO [main] Condition added to ancillary 
+2021-05-06 18:15:52,477 INFO [main] Public price & net cost added to ancillary 
+2021-05-06 18:15:52,664 INFO [main] Contract activated 
+2021-05-06 18:15:53,892 INFO [main] Contract changed status to 'On Sale' 
+2021-05-06 18:16:42,619 INFO [main] Browser started 
+2021-05-06 18:16:42,911 INFO [main] User login to application 
+2021-05-06 18:16:42,917 INFO [main] Contracts page opened 
+2021-05-06 18:16:43,153 INFO [main] Browser started 
+2021-05-06 18:16:43,658 INFO [main] User login to application 
+2021-05-06 18:16:43,926 INFO [main] Error message about incorrect login showed 
+2021-05-06 18:16:44,155 INFO [main] Browser started 
+2021-05-06 18:16:44,615 INFO [main] User login to application 
+2021-05-06 18:16:44,891 INFO [main] Error message about incorrect login showed 
+2021-05-06 18:16:45,104 INFO [main] Browser started 
+2021-05-06 18:16:45,406 INFO [main] Password entered to 'Password' field 
+2021-05-06 18:16:45,471 INFO [main] Password opened for view 
+2021-05-06 18:16:45,508 INFO [main] Password displayed 
+2021-05-06 18:16:45,707 INFO [main] Browser started 
+2021-05-06 18:16:46,186 INFO [main] User login to application 
+2021-05-06 18:16:46,867 INFO [main] User logged out 
+2021-05-06 18:16:46,869 INFO [main] Login page displayed 
+2021-05-06 18:16:47,082 INFO [main] Browser started 
+2021-05-06 18:16:47,565 INFO [main] User login to application 
+2021-05-06 18:16:48,010 INFO [main] User page is available 
+2021-05-06 18:16:48,240 INFO [main] Browser started 
+2021-05-06 18:16:49,135 INFO [main] User login to application 
+2021-05-06 18:16:49,619 INFO [main] 'Users' page opened 
+2021-05-06 18:16:51,150 INFO [main] New user info filled 
+2021-05-06 18:16:52,344 INFO [main] Admin registered user 
+2021-05-06 18:16:52,497 INFO [main] User logged out 
+2021-05-06 18:16:52,742 INFO [main] User login to application 
+2021-05-06 18:16:53,099 INFO [main] User page is not available 
+2021-05-06 19:35:22,693 INFO [main] Browser started 
+2021-05-06 19:35:23,035 INFO [main] User login to application 
+2021-05-06 19:35:23,854 INFO [main] 'New contract' page opened 
+2021-05-06 19:35:25,056 INFO [main] Description entered to 'Description' field 
+2021-05-06 19:35:25,645 INFO [main] 5 selected for current month 
+2021-05-06 19:35:28,658 INFO [main] Valid from added to contract 
+2021-05-06 19:35:29,769 INFO [main] 22 selected for current month 
+2021-05-06 19:35:32,784 INFO [main] Valid to added to contract 
+2021-05-06 19:35:33,075 INFO [main] Net cost & Public price currencies selected 
+2021-05-06 19:35:37,556 INFO [main] Supplier selected 
+2021-05-06 19:35:42,867 INFO [main] Helmet ancillary selected 
+2021-05-06 19:35:42,867 INFO [main] Ancillary added to contract 
+2021-05-06 19:35:43,270 INFO [main] Ancillary info added 
+2021-05-06 19:35:45,313 INFO [main] 5 selected for current month 
+2021-05-06 19:35:48,328 INFO [main] Supplied date from added to contract 
+2021-05-06 19:35:50,170 INFO [main] 22 selected for current month 
+2021-05-06 19:35:53,182 INFO [main] Supplied date to added to contract 
+2021-05-06 19:35:54,079 INFO [main] Condition added to ancillary 
+2021-05-06 19:35:54,751 INFO [main] Public price & net cost added to ancillary 
+2021-05-06 19:35:54,933 INFO [main] Contract activated 
+2021-05-06 19:35:56,392 INFO [main] Contract changed status to 'On Sale' 
+2021-05-06 19:36:42,385 INFO [main] Browser started 
+2021-05-06 19:36:42,708 INFO [main] User login to application 
+2021-05-06 19:36:42,712 INFO [main] Contracts page opened 
+2021-05-06 19:36:43,068 INFO [main] Browser started 
+2021-05-06 19:36:43,575 INFO [main] User login to application 
+2021-05-06 19:36:43,837 INFO [main] Error message about incorrect login showed 
+2021-05-06 19:36:44,052 INFO [main] Browser started 
+2021-05-06 19:36:44,513 INFO [main] User login to application 
+2021-05-06 19:36:44,779 INFO [main] Error message about incorrect login showed 
+2021-05-06 19:36:44,977 INFO [main] Browser started 
+2021-05-06 19:36:45,279 INFO [main] Password entered to 'Password' field 
+2021-05-06 19:36:45,361 INFO [main] Password opened for view 
+2021-05-06 19:36:45,387 INFO [main] Password displayed 
+2021-05-06 19:36:45,661 INFO [main] Browser started 
+2021-05-06 19:36:46,158 INFO [main] User login to application 
+2021-05-06 19:36:47,209 INFO [main] User logged out 
+2021-05-06 19:36:47,218 INFO [main] Login page displayed 
+2021-05-06 19:36:47,468 INFO [main] Browser started 
+2021-05-06 19:36:47,983 INFO [main] User login to application 
+2021-05-06 19:36:48,507 INFO [main] User page is available 
+2021-05-06 19:36:48,735 INFO [main] Browser started 
+2021-05-06 19:36:49,922 INFO [main] User login to application 
+2021-05-06 19:36:50,573 INFO [main] 'Users' page opened 
+2021-05-06 19:36:51,936 INFO [main] New user info filled 
+2021-05-06 19:36:53,186 INFO [main] Admin registered user 
+2021-05-06 19:36:53,322 INFO [main] User logged out 
+2021-05-06 19:36:53,798 INFO [main] User login to application 
+2021-05-06 19:36:54,194 INFO [main] User page is not available 
